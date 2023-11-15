@@ -1,2 +1,2 @@
 # translit_keyboards
-Keyboards for Egyptian Transliteration Font
+Keyboards for Typing in Ancient Egyptian Transliteration Uncode
