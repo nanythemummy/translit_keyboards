@@ -38,7 +38,14 @@ The Mac version was created with [Ukelele](https://software.sil.org/ukelele/). I
 * You can click it and it will give you input options. Select "Egyptian Translit" to switch to inputing Egyptian Translit.
 * Now, just type transliterated text like you would enter it in Manuel de Codage.
 * If you want to switch back to your normal alphabet, click the button up by the clock again and switch it back.
-
+## Windows
+The Windows Keyboard was built on Windows 11 with [Microsoft Keyboard Layout Creator, Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
+* To Install, download the whole [Windows folder from Github](https://github.com/nanythemummy/translit_keyboards/tree/main/Windows)
+* Extract the folder (right click on the folder in downloads and click "Extract", open it) and click the "Setup" Icon
+* If windows asks you if you want to run this thing you downloaded from the internet, click YES.
+* It should say that it has been successfully installed.
+ * To enable it, open settings by clicking on the windows button and typing "Settings", either hitting enter or clicking on settings when it pops up.
+ * Select "Time and Language" in the menu on the left side of the settings pane.
 ## Tips
 1. If you see little boxes where your characters should be, it means you are using a font that doesn't support the unicode character you're using. There are a lot of fonts that support Egyptian Transliteration, but I recommend:
 * [New Athena](https://classicalstudies.org/publications-and-research/nau-download)
