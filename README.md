@@ -6,14 +6,14 @@ When installed, you will be able change the keyboard on your computer to input A
 ## Installation: Mac
 The Mac version was created with [Ukelele](https://software.sil.org/ukelele/). If you have an older version of MacOS, you can use the DMG file to install it (I'm not sure when this feature broke with Ukelele. I know that it does not work with Ventura, but did when I made the first version of the keylayout three years ago). If you have a newer version of MacOS, such as Ventura, you should follow the instructions for installing the Keylayout file. IF the instructions for the DMG file don't work, use the "Installing from the Keylayout File" instructions.
 ### Installing from the DMG file (Sierra(?) and older)
-* To use the DMG file, download  [Egyptian Translit.dmg](https://github.com/nanythemummy/translit_keyboards/blob/main/Mac/Egyptian%20Translit.dmg). (Hint: Click the link and then click the little download button in the upper right hand side of the screen. It looks like an arrow pointing down into a box).
+** To Install, download the [whole github repo as a zip file](https://github.com/nanythemummy/translit_keyboards/archive/refs/heads/main.zip)  (This is the easiest instruction for non-git users.) Extract it, then go into the Mac folder to find the file "Egyptian Translit.dmg"
 * Double click to open it. If MacOS asks you if you would really like to open a program from the internet, click yes. You should see a window with a keylayout file and a file called "Keyboard Installer"
 * Click "Keyboard Installer"
 * Drag and drop the "Egyptian Translit.keylayout" from the DMG window in step 2 to the Keyboard installer window and click "Install for Current User".
 * This should install the keyboard, but you still need to add it to Mac's keyboard list. You should restart your computer and then proceed to the instructions for Enabling the Keyboard.
 
 ### Installing from the Keylayout File (PREFERRED METHOD)
-* To install, download [Egyptian Translit.keylayout](https://github.com/nanythemummy/translit_keyboards/blob/main/Mac/Egyptian%20Translit.keylayout) (Hint: Click the link and then click the little download button in the upper right hand side of the screen. It looks like an arrow pointing down into a box).
+* To Install, download the [whole github repo as a zip file](https://github.com/nanythemummy/translit_keyboards/archive/refs/heads/main.zip)  (This is the easiest instruction for non-git users.) Extract it, then go into the Mac folder to find the file "Egyptian Translit.keylayout"
 * CTRL+Click on the finder icon on your dock at the bottom of the screen so that a context menu pops up.
 * In this Context Menu, click "Go To Folder"
 * Type "/Library/Keyboard Layouts" (without the quotes) and hit enter.
