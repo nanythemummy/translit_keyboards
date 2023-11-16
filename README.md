@@ -59,7 +59,7 @@ The Windows Keyboard was built on Windows 11 with [Microsoft Keyboard Layout Cre
    * For ï, use shift+i
 3. For those attached to ḳ instead of q, use shift+k
 4. Demotic people can use the v-key for ṱ
-5. To see all the mappings on mac, go to the input dropdown near the click "Show Keyboard Viewer."
+5. To see all the mappings on mac, go to the input dropdown near the clock and select "Show Keyboard Viewer."
 
 ## Bugs and Other Known Issues
 1. These keyboards don't support capital letters. The old Trilit_CG font used to solve this problem by replacing numbers with capital versions of ḤḪH̱ etc, but I felt that being able to enter numbers was a lot more important--I don't see caps in a lot of typed transliterations anyway.
