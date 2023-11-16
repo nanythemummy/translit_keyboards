@@ -39,7 +39,7 @@ The Mac version was created with [Ukelele](https://software.sil.org/ukelele/). I
 * If you want to switch back to your normal alphabet, click the button up by the clock again and switch it back.
 ## Installation: Windows
 The Windows Keyboard was built on Windows 11 with [Microsoft Keyboard Layout Creator, Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
-* To Install, download the whole [Windows folder from Github](https://github.com/nanythemummy/translit_keyboards/tree/main/Windows)
+* To Install, download the [whole github repo as a zip file](https://github.com/nanythemummy/translit_keyboards/archive/refs/heads/main.zip)  (This is the easiest instruction for non-git users.)
 * Extract the folder (right click on the folder in downloads and click "Extract", open it) and click the "Setup" Icon
 * If windows asks you if you want to run this thing you downloaded from the internet, click YES.
 * It should say that it has been successfully installed.
