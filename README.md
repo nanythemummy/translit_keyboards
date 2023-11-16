@@ -7,7 +7,7 @@ When installed, you will be able change the keyboard on your computer to input A
 ### Mac
 The Mac version was created with [Ukelele](https://software.sil.org/ukelele/). If you have an older version of MacOS, you can use the DMG file to install it (I'm not sure when this feature broke with Ukelele. I know that it does not work with Ventura, but did when I made the first version of the keylayout three years ago). If you have a newer version of MacOS, such as Ventura, you should follow the instructions for installing the Keylayout file. IF the instructions for the DMG file don't work, use the "Installing from the Keylayout File" instructions.
 #### Installing from the DMG file (Sierra(?) and older)
-* To use the DMG file, download  [Egyptian Translit.dmg] (https://github.com/nanythemummy/translit_keyboards/blob/main/Mac/Egyptian%20Translit.dmg).
+* To use the DMG file, download  [Egyptian Translit.dmg](https://github.com/nanythemummy/translit_keyboards/blob/main/Mac/Egyptian%20Translit.dmg).
 * Double click to open it. If MacOS asks you if you would really like to open a program from the internet, click yes. You should see a window with a keylayout file and a file called "Keyboard Installer"
 * Click "Keyboard Installer"
 * Drag and drop the "Egyptian Translit.keylayout" from the DMG window in step 2 to the Keyboard installer window and click "Install for Current User".
@@ -38,6 +38,25 @@ The Mac version was created with [Ukelele](https://software.sil.org/ukelele/). I
 * You can click it and it will give you input options. Select "Egyptian Translit" to switch to inputing Egyptian Translit.
 * Now, just type transliterated text like you would enter it in Manuel de Codage.
 * If you want to switch back to your normal alphabet, click the button up by the clock again and switch it back.
+
+## Tips
+1. If you see little boxes where your characters should be, it means you are using a font that doesn't support the unicode character you're using. There are a lot of fonts that support Egyptian Transliteration, but I recommend:
+* [New Athena](https://classicalstudies.org/publications-and-research/nau-download)
+* [Gentium Plus](https://software.sil.org/gentium/)
+
+2. I recently added the new character in the [Leiden Unified Transliteration](https://ice2023.com/en/news/lut).
+   * For ï, use shift+i
+3. For those attached to ḳ instead of q, use shift+k
+4. Demotic people can use the v-key for ṱ
+5. To see all the mappings on mac, go to the input dropdown near the click "Show Keyboard Viewer.
+
+## Bugs and Other Known Issues
+1. These keyboards don't support capital letters. The old Trilit_CG font used to solve this problem by replacing numbers with capital versions of ḤḪH̱ etc, but I felt that being able to enter numbers was a lot more important--I don't see caps in a lot of typed transliterations anyway.
+   
+## Feedback
+If you have any problems, drop me an email at kjohnsto@berkeley.edu
+
+  
 
 
 
