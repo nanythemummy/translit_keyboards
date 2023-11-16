@@ -48,13 +48,13 @@ The Mac version was created with [Ukelele](https://software.sil.org/ukelele/). I
    * For ï, use shift+i
 3. For those attached to ḳ instead of q, use shift+k
 4. Demotic people can use the v-key for ṱ
-5. To see all the mappings on mac, go to the input dropdown near the click "Show Keyboard Viewer.
+5. To see all the mappings on mac, go to the input dropdown near the click "Show Keyboard Viewer."
 
 ## Bugs and Other Known Issues
 1. These keyboards don't support capital letters. The old Trilit_CG font used to solve this problem by replacing numbers with capital versions of ḤḪH̱ etc, but I felt that being able to enter numbers was a lot more important--I don't see caps in a lot of typed transliterations anyway.
    
 ## Feedback
-If you have any problems, drop me an email at kjohnsto@berkeley.edu
+If you have any problems or suggestions, drop me an email at kjohnsto@berkeley.edu
 
   
 
