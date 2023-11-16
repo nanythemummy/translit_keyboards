@@ -6,7 +6,7 @@ When installed, you will be able change the keyboard on your computer to input A
 ## Installation: Mac
 The Mac version was created with [Ukelele](https://software.sil.org/ukelele/). If you have an older version of MacOS, you can use the DMG file to install it (I'm not sure when this feature broke with Ukelele. I know that it does not work with Ventura, but did when I made the first version of the keylayout three years ago). If you have a newer version of MacOS, such as Ventura, you should follow the instructions for installing the Keylayout file. IF the instructions for the DMG file don't work, use the "Installing from the Keylayout File" instructions.
 ### Installing from the DMG file (Sierra(?) and older)
-** To Install, download the [whole github repo as a zip file](https://github.com/nanythemummy/translit_keyboards/archive/refs/heads/main.zip)  (This is the easiest instruction for non-git users.) Extract it, then go into the Mac folder to find the file "Egyptian Translit.dmg"
+* To Install, download the [whole github repo as a zip file](https://github.com/nanythemummy/translit_keyboards/archive/refs/heads/main.zip)  (This is the easiest instruction for non-git users.) Extract it, then go into the Mac folder to find the file "Egyptian Translit.dmg"
 * Double click to open it. If MacOS asks you if you would really like to open a program from the internet, click yes. You should see a window with a keylayout file and a file called "Keyboard Installer"
 * Click "Keyboard Installer"
 * Drag and drop the "Egyptian Translit.keylayout" from the DMG window in step 2 to the Keyboard installer window and click "Install for Current User".
