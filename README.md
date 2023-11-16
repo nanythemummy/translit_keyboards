@@ -1,7 +1,7 @@
 # translit_keyboards
 ## About 
 This is a keyboard layout for inputing Ancient Egyptian transliterations in unicode.
-When installed, you will be able change the keyboard on your computer to input Ancient Egyptian transliteration unicode characters, just like you can change it to input Cyrilic, Arabic, Chinese or any other script.  This keyboard layout was designed to be intuitive to people who already use Manual de Codage or the Trilit_CG True Type font to type transliteration.
+When installed, you will be able change the keyboard on your computer to input Ancient Egyptian transliteration unicode characters, just like you can change it to input Cyrilic, Arabic, Chinese or any other script.  This keyboard layout was designed to be intuitive to people who already use Manuel de Codage or the Trilit_CG True Type font to type transliteration.
 
 ## Installation: Mac
 The Mac version was created with [Ukelele](https://software.sil.org/ukelele/). If you have an older version of MacOS, you can use the DMG file to install it (I'm not sure when this feature broke with Ukelele. I know that it does not work with Ventura, but did when I made the first version of the keylayout three years ago). If you have a newer version of MacOS, such as Ventura, you should follow the instructions for installing the Keylayout file. IF the instructions for the DMG file don't work, use the "Installing from the Keylayout File" instructions.
